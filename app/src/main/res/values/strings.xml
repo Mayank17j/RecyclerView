@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string-array name="pet_name">
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Rat</item>
+        <item>Rabbit</item>
+        <item>Peagion</item>
+        <item>Snake</item>
+        <item>Elephant</item>
+        <item>Cow</item>
+    </string-array>
+
+    <string-array name="Description">
+        <item>Cut</item>
+        <item>Faithfull</item>
+        <item>Eat cheese</item>
+        <item>Very cute</item>
+        <item>Fly</item>
+        <item>Snaky</item>
+        <item>Dependable</item>
+        <item>Gives milk</item>
+    </string-array>
+
+</resources>
